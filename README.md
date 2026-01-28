@@ -18,7 +18,7 @@ Un bookmarklet simple pour détecter les adresses IP sur [Azar](https://azarlive
 1. Ouvrez **Safari** et allez sur [azarlive.com](https://azarlive.com/)
 
 2. Créez un signet :
-   - Appuyez sur les trois petit points **...** 
+   - Appuyez sur les trois petit points **"..."** 
    - Sélectionnez **"Ajouter un signet"**
    - Appuyez sur **"Enregistrer"**
 
